@@ -8,8 +8,7 @@ This repository contains an application that converts screenshots to text using 
 
 ## Features
 
-- Takes a screenshot of a selected area on the screen.
-- Performs OCR on the captured image using the Tesseract OCR engine.
+- Performs OCR on the captured image(from a screenshot tool) using the Tesseract OCR engine.
 - Extracts the recognized text from the image.
 - Copies the recognized text to your clipboard instantly.
 
