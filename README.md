@@ -1,3 +1,5 @@
+[![copyright: TVL](https://img.shields.io/badge/Copyright-TVL-yellow.svg)](https://pluz21.itch.io/)
+
 # Instant-Screenshot-To-Text-App
 # ⚠️ Only working for Windows 11 & English language⚠️
 
