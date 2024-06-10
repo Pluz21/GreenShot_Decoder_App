@@ -19,6 +19,19 @@ This repository contains an application that converts screenshots to text using 
 ### Optional Requirement
 
 - Second screenshot tool like Greenshot to allow image capture with one, screenshot to text conversion with the other
+  it can be found here : https://getgreenshot.org/downloads/  
+ 
+### Example third party screenshot app settings (Greenshot)
+<details>
+<summary>Click to expand view to the Greenshot settings examples </summary>
+<img src="https://github.com/Pluz21/Instant-Screenshot-To-Text-App/blob/main/Example_Optimal_Settings/greenshot_general_tab.jpg?raw=true" alt="Greenshot Capture Tab" width="35%"/>
+<img src="https://github.com/Pluz21/Instant-Screenshot-To-Text-App/blob/main/Example_Optimal_Settings/greenshot_capture_tab.jpg?raw=true" alt="Greenshot Capture Tab" width="35%"/>
+<img src="https://github.com/Pluz21/Instant-Screenshot-To-Text-App/blob/main/Example_Optimal_Settings/greenshot_output_tab.jpg?raw=true" alt="Greenshot Capture Tab" width="35%"/>
+<img src="https://github.com/Pluz21/Instant-Screenshot-To-Text-App/blob/main/Example_Optimal_Settings/greenshot_destination_tab.jpg?raw=true" alt="Greenshot Capture Tab" width="35%"/>
+</details>
+
+
+
 
 ## Installation
 
