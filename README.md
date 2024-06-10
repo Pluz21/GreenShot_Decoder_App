@@ -4,7 +4,7 @@
 # ⚠️ Only working for Windows 11 & English language⚠️
 
 ## Introduction
-This repository contains an application that converts screenshots to text using Optical Character Recognition (OCR) with the Tesseract OCR engine in C#.
+This repository contains a console application that converts screenshots to text using Optical Character Recognition (OCR) with the Tesseract OCR engine in C#.
 
 ## Features
 
