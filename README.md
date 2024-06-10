@@ -19,6 +19,8 @@ This repository contains an application that converts screenshots to text using 
 ### Optional Requirement
 
 - Second screenshot tool like Greenshot to allow image capture with one, screenshot to text conversion with the other
+  it can be found here : https://getgreenshot.org/downloads/  
+ 
 ### Example third party screenshot app settings (Greenshot)
 <details>
 <summary>Click to view the Greenshot settings examples Tab</summary>
