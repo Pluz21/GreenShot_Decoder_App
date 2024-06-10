@@ -10,6 +10,7 @@ This repository contains a console application that converts screenshots to text
 
 - Performs OCR on the captured image(from a screenshot tool) using the Tesseract OCR engine.
 - Extracts the recognized text from the image.
+- Creates "Extracted_Texts_From_Greenshot_Test" folder on desktop to store all .txt files resulting from conversion
 - Copies the recognized text to your clipboard instantly.
 
 ## Requirements
@@ -51,7 +52,7 @@ OR
 4. Once the setup is complete, every time a screenshot is saved in the specified folder, the app will attempt to convert it to text.
 5. You can directly paste the converted screenshot; no extra steps are needed.
 
-
+## Video Tutorial
 
 ## Acknowledgements
 
